@@ -1,1 +1,1 @@
-print ("wake_up_world!")
+print ("what_a_time_to_be_alive!")
