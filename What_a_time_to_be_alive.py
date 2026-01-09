@@ -1,1 +1,1 @@
-print ("what_a_time_to_be_alive!")
+print (f"Wake up, Alice!Let's code Python!")
