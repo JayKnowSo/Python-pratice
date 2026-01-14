@@ -1,1 +1,1 @@
-print (f"Wake up, Alice!Let's code Python!")
+print (f"Wake up, Alice! Wonderland is calling through the rabbit holes!")

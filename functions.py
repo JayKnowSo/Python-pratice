@@ -1,9 +1,9 @@
 # functions.py
 # this function greets a person by name
 def greet(name):
-    print(f"how you doing?, {name}! welcome to python practice.")
+    print(f"How you doing?, {name}! Welcome to Python Practice.")
 
 # call the function with your chosen names
-greet("charliem")
-greet("david")
-greet("jay")
+greet("Charliem")
+greet("David")
+greet("John")
